@@ -10,7 +10,7 @@
 
 **[⬇ Latest release](../../releases/latest)** · [adelvo.io/appvol](https://adelvo.io/appvol/)
 
-Signed & notarized. Requires macOS 14.2 or later. New versions install in-app.
+Signed & notarized. Requires macOS 14.2 or later, Apple Silicon or Intel. New versions install in-app.
 
 ## What it does
 
